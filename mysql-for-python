@@ -1,0 +1,7 @@
+#install mysql for python
+
+when your project requires to install a package called MySQL-python
+
+1. pip uninstall MySQL-python
+2. brew install mysql
+3. pip install MySQL-python
